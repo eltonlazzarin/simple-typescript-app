@@ -1,0 +1,29 @@
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1%;
+}
+
+main {
+  background: #fff5ee;
+  padding: 2%;
+  width: 100%;
+}
+
+p {
+  padding: 2% 0;
+  font-size: 14px;
+}
+
+img {
+  width: 285px;
+  margin-bottom: 2%;
+}
+
+@media (max-width: 780px) {
+  div {
+    display: flex;
+    flex-direction: column;
+  }
+}
