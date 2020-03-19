@@ -12,8 +12,6 @@
 
   <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/simple-typescript-app">
 
-  <p align="center">
-  <img alt="Web main page" src="https://github.com/eltonlazzarin/simple-typescript-app/blob/master/frontend/screenshots/mainmobile.jpeg" hight="380" width="350">
 
 ### :rocket: Backend Technologies
 
@@ -48,6 +46,9 @@ This project is under the MIT license.
 
 <p align="center">
 <img alt="Web main page" src="https://github.com/eltonlazzarin/simple-typescript-app/blob/master/frontend/screenshots/mainpage.png">
+
+<p align="center">
+  <img alt="Web main page" src="https://github.com/eltonlazzarin/simple-typescript-app/blob/master/frontend/screenshots/mainmobile.jpeg" hight="380" width="350">
 
 - [ReactJS](https://reactjs.org/)
 - [typescript](https://github.com/microsoft/TypeScript)
