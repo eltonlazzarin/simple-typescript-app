@@ -10,9 +10,6 @@
   
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/simple-typescript-app">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/simple-typescript-app">
-
-
 ### :rocket: Backend Technologies
 
 - [Node.js](https://nodejs.org/)
