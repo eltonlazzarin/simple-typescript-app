@@ -39,13 +39,14 @@ This project is under the MIT license.
 
 ---
 
-### :rocket: Frontend Technologies (WebApp)
-
 <p align="center">
 <img alt="Web main page" src="https://github.com/eltonlazzarin/simple-typescript-app/blob/master/frontend/screenshots/mainpage.png">
 
 <p align="center">
   <img alt="Web main page" src="https://github.com/eltonlazzarin/simple-typescript-app/blob/master/frontend/screenshots/mainmobile.jpeg" hight="380" width="350">
+  
+
+### :rocket: Frontend Technologies (WebApp)
 
 - [ReactJS](https://reactjs.org/)
 - [typescript](https://github.com/microsoft/TypeScript)
