@@ -10,7 +10,7 @@
   
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/simple-typescript-app">
 
-### :rocket: Backend Technologies
+## :rocket: Backend Technologies
 
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
@@ -46,7 +46,7 @@ This project is under the MIT license.
   <img alt="Web main page" src="https://github.com/eltonlazzarin/simple-typescript-app/blob/master/frontend/screenshots/mainmobile.jpeg" hight="380" width="350">
   
 
-### :rocket: Frontend Technologies (WebApp)
+## :rocket: Frontend Technologies (WebApp)
 
 - [ReactJS](https://reactjs.org/)
 - [typescript](https://github.com/microsoft/TypeScript)
